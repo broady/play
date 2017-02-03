@@ -1,0 +1,15 @@
+play
+====
+
+Command play shares a file on the Go playground.
+
+Usage:
+
+$ play play.go
+https://play.golang.org/p/utuIyzQutn
+$ play < play.go
+https://play.golang.org/p/utuIyzQutn
+
+Install:
+
+$ go get -u github.com/broady/play
